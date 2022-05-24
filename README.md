@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @huntertdiamond
+- 👀 I’m interested in blockchain scaling, gaming, and digital economies
+- 🌱 I’m currently learning solidity and how to be a better human being :)
+- 💞️ I’m looking to collaborate on game design, "gas fee" optimization, and economy design
+- 📫 You can reach me on discord @hunterdiamond#8563 
