@@ -1,3 +1,2 @@
-## HTD
-Excelsior Holdings
-@huntertdiamond
+ HTD
+
